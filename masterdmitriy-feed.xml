@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2024-10-25" xmlns="http://webmaster.yandex.ru/schemas/feed/5.1">
-  <shop date="2024-10-25" version="2.0">
+<yml_catalog date="2024-10-25">
+  <shop>
     <name>Мастер Дмитрий — Смоленск</name>
     <company>Мастер Дмитрий</company>
     <url>https://masterdmitriy.ru</url>
@@ -18,73 +18,53 @@
     <offers>
       <offer id="smesitel">
         <url>https://masterdmitriy.ru/ustanovka-smesitelya</url>
-        <price>
-          <min>2000</min>
-          <max>4000</max>
-        </price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <name>Установка смесителя</name>
         <description>Профессиональная установка, замена и ремонт смесителя в ванной, на кухне, в душевой. Работаю со всеми типами: кухонные, для ванны, душевые, скрытые, термостатические, бесконтактные. Демонтаж старого оборудования, подключение к водопроводу, проверка герметичности.</description>
         <picture>https://optim.tildacdn.com/tild3739-3531-4534-b632-6531633316166/-/resize/460x/-/format/webp/_.png.webp</picture>
         <vendor>Мастер Дмитрий</vendor>
-        <sales_notes>Стоимость указана ориентировочно, от 2000 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
+        <sales_notes>Стоимость от 2000 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
       </offer>
       <offer id="unitaz">
         <url>https://masterdmitriy.ru/remont-unitaza</url>
-        <price>
-          <min>4000</min>
-          <max>7000</max>
-        </price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <name>Установка унитаза</name>
         <description>Установка и ремонт унитаза любой сложности: напольные, подвесные, приставные модели, инсталляции. Демонтаж старого оборудования, разметка и монтаж инсталляции, подключение к канализации и водопроводу, герметизация стыков, настройка сливного механизма.</description>
         <picture>https://optim.tildacdn.com/tild3638-6162-4838-a431-356665653237/-/resize/460x/-/format/webp/rem-unitaza.png.webp</picture>
         <vendor>Мастер Дмитрий</vendor>
-        <sales_notes>Стоимость указана ориентировочно, от 4000 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
+        <sales_notes>Стоимость от 4000 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
       </offer>
       <offer id="filter">
         <url>https://masterdmitriy.ru/ustanovka-filtra</url>
-        <price>
-          <min>1500</min>
-          <max>3000</max>
-        </price>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
         <name>Установка фильтров</name>
         <description>Установка и замена бытовых фильтров для воды: проточные, магистральные, системы обратного осмоса. Подбор оборудования, монтаж, замена картриджей, проверка герметичности и давления.</description>
         <picture>https://optim.tildacdn.com/tild3638-6162-4838-a431-356665653237/-/resize/460x/-/format/webp/filter.png.webp</picture>
         <vendor>Мастер Дмитрий</vendor>
-        <sales_notes>Стоимость указана ориентировочно, от 1500 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
+        <sales_notes>Стоимость от 1500 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
       </offer>
       <offer id="kotel">
         <url>https://masterdmitriy.ru/remont-kotla</url>
-        <price>
-          <min>5000</min>
-          <max>12000</max>
-        </price>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
         <name>Установка котлов отопления</name>
         <description>Установка, подключение и ремонт газовых, электрических и твердотопливных котлов. Обвязка котла, монтаж дымохода, настройка автоматики, опрессовка системы, пусконаладка.</description>
         <picture>https://optim.tildacdn.com/tild3638-6162-4838-a431-356665653237/-/resize/460x/-/format/webp/kotel.png.webp</picture>
         <vendor>Мастер Дмитрий</vendor>
-        <sales_notes>Стоимость указана ориентировочно, от 5000 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
+        <sales_notes>Стоимость от 5000 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
       </offer>
       <offer id="stiralnaya">
         <url>https://masterdmitriy.ru/remont-stiralnoy-mashiny</url>
-        <price>
-          <min>3500</min>
-          <max>8000</max>
-        </price>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
         <name>Установка стиральных машин</name>
         <description>Установка, подключение и ремонт стиральных машин любой марки. Замена ТЭНа, подшипников, сливных насосов, ремонт электроники, устранение протечек, демонтаж старой техники.</description>
         <picture>https://optim.tildacdn.com/tild3638-6162-4838-a431-356665653237/-/resize/460x/-/format/webp/stiralnaya.png.webp</picture>
         <vendor>Мастер Дмитрий</vendor>
-        <sales_notes>Стоимость указана ориентировочно, от 3500 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
+        <sales_notes>Стоимость от 3500 руб. Окончательная цена — после диагностики. Гарантия на работы и материалы. Выезд в пределах Смоленска.</sales_notes>
       </offer>
     </offers>
   </shop>
